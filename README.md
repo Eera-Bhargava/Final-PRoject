@@ -1,4 +1,4 @@
-# Final-PRoject
+# Final-Project
 # Stock Price Trend Prediction using LSTM
 
 This project uses an LSTM (Long Short-Term Memory) neural network to predict future stock prices based on historical stock data. Additional financial indicators like the Moving Average (MA20) and Relative Strength Index (RSI) are also included for deeper analysis.
